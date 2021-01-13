@@ -1,0 +1,15 @@
+{
+    "MYSQL": {
+        "HOST": "localhost",
+        "PORT": 3306,
+        "USER": "root",
+        "PWD": "Admin123!",
+        "SCHEMA": "test"
+    },
+    "LOGGER": {
+        "LEVEL": "all",
+        "LAYOUT_PATTERN": "%[[%d{yyyy/MM/dd-hh:mm:ss.SSS}] [%p] %c -%] %m",
+        "CONSOLE_ENABLE": true,
+        "FILE_ENABLE": true
+    }
+}
