@@ -1,6 +1,6 @@
 {
     "ENV": "DEV",
-    "PORT": 68001,
+    "PORT": 35001,
     "NUMBER_WORKER": 1,
     "STORE_PATH": "${rootPath}/uploads",
     "LOGGER_FILE_LOG_PATH": "",
